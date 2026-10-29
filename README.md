@@ -1,4 +1,4 @@
-# MNIST Dataset | Handwritten Digit Recognition
+# MNIST Dataset 
 
 ## Overview
 This project explores the MNIST handwritten digit dataset using Python. It focuses on image preprocessing and applying a Decision Tree Classifier to predict handwritten digits from 0 to 9.
